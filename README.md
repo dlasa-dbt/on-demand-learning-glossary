@@ -13,7 +13,7 @@ The On-Demand Learning Glossary is a living collection of concepts and terms com
 
 <summary>📖 Accessibility</summary>
 
-The practice of designing things so that everyone can benefit equally, regardless of ability. **For more information see**, [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0)
+The practice of designing things so that everyone can benefit equally, regardless of ability. **For more information, see** [Web Content Accessibility Guidelines](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.0)
 
 </details>
 
@@ -37,7 +37,7 @@ An instructional design model used to develop training and online learning. ADDI
 
 <summary>📖 Bloom's Taxonomy</summary>
 
-A hierarchical ordering of cognitive skills that can help teachers and students in the classroom. It was pioneered by Benjamin Bloom in 1956, who established a framework for categorizing educational goals.
+A hierarchical ordering of cognitive skills that can help teachers and students in the classroom. It was pioneered by Benjamin Bloom in 1956, who established a framework for categorizing educational goals. **For more information, see** [**Bloom's Taxonomy**](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)**.**
 
 </details>
 
