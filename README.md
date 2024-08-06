@@ -1,8 +1,15 @@
 ---
-description: >-
-  The On-Demand Learning Glossary is a living collection of concepts and terms
-  commonly used in on-demand learning, instructional design, and learning
-  experience design.
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 📗 On-Demand Learning Glossary
