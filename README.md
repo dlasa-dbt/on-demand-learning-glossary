@@ -74,9 +74,9 @@ A short video that covers a specific idea or topic in a simple way. Explainer vi
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span> Plausible Distractor</summary>
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span> Plausible Detractor</summary>
 
-A plausible distractor in learning is an incorrect answer option in a multiple-choice question that is designed to be a reasonable alternative to the correct answer. **For more information**, see [**Writing Good Multiple Choice Questions.**](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/)
+A plausible detractor in learning is an incorrect answer option in a multiple-choice question that is designed to be a reasonable alternative to the correct answer. **For more information**, see [**Writing Good Multiple Choice Questions.**](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/)
 
 </details>
 
